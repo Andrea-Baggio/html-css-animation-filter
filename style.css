@@ -85,7 +85,7 @@
 
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
-    transition: 2s
+    transition: 4s
 }
 
 .ex-6-img:hover {
@@ -93,6 +93,10 @@
     filter: grayscale(100%);
 }
 
+.ex-7-img:hover {
+    cursor: pointer;
+    filter: blur(10px);
+}
 
 
 .ex-9-img {
