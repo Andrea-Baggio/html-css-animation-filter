@@ -49,7 +49,17 @@
     width: 100px;
     height: 100px;
     background: red;
+    transition: all 2s;
 }
+
+.ex-4-square:hover {
+    opacity: 0;
+    cursor: pointer;
+}
+
+
+
+
 .ex-5-square {
     margin: 20px;
     width: 60px;
