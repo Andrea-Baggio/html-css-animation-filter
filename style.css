@@ -98,6 +98,14 @@
     filter: blur(10px);
 }
 
+.ex-8-img:hover {
+    border-radius: 50%;
+    filter: invert(100%);
+    cursor: pointer;
+}
+
+
+
 
 .ex-9-img {
     margin: 50px 100px;
